@@ -44,6 +44,12 @@ This repository is maintained by [Fikayo Adepoju](https://github.com/coderonflee
 - [Forum](https://forum.ionicframework.com/c/capacitor)
 - [Github Project](https://github.com/ionic-team/capacitor)
 - [Twitter](https://twitter.com/capacitorjs)
+- [Capawesome Cloud](https://capawesome.io/cloud/) 
+- [Capawesome Plugins](https://capawesome.io/plugins/)
+- [Android Keystore Generator](https://capawesome.io/tools/android-keystore-generator/)
+- [iOS Certificate Generator](https://capawesome.io/tools/ios-certificate-generator/)
+- [iOS UDID Finder](https://capawesome.io/tools/ios-udid-finder/)
+
 
 # Built With Ionic
 
@@ -124,9 +130,13 @@ This repository is maintained by [Fikayo Adepoju](https://github.com/coderonflee
 - [Build a Custom Flash Card Component in Ionic 2](https://www.youtube.com/watch?v=BKFQKywl_GM) ![](ionic.png)
 - [Hacking CSS in Ionic 2](https://www.youtube.com/watch?v=sXFmkdhOEVc) ![](ionic.png)
 - [Learn Ionic 3 From Scratch](https://www.youtube.com/watch?v=JcEGTektejA&list=PLYxzS__5yYQng-XnJhB21Jc7NW1OIaqct) ![](ionic.png)
+- [Capawesome Biometrics Plugin for Ionic Capacitor](https://www.youtube.com/watch?v=QIcuCoaoe7w)
+- [Explore Capawesome's New Ionic Capacitor Live Update Plugin](https://www.youtube.com/watch?v=pCDPwItv_ik)
+- [How to use the Capacitor SQLite plugin from Capawesome](https://m.youtube.com/watch?v=r3uyNnD1CjM)
 
 ### Basics
 
+- [11 Steps to Get Your Web App on the App Store](https://capawesome.io/blog/11-steps-to-get-your-web-app-on-the-app-store/)
 - [Build a complete mobile app with Ionic 3](https://ionicthemes.com/tutorials/about/building-a-complete-mobile-app-with-ionic-3) ![](ionic.png)
 - [Ionic Application Structure](https://ionicthemes.com/tutorials/about/ionic-application-structure) ![](ionic.png)
 - [Setup your development environment to build Ionic apps](https://ionicthemes.com/tutorials/about/setup-your-dev-environment-to-build-ionic-apps) ![](ionic.png)
