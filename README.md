@@ -130,9 +130,10 @@ This repository is maintained by [Fikayo Adepoju](https://github.com/coderonflee
 - [Build a Custom Flash Card Component in Ionic 2](https://www.youtube.com/watch?v=BKFQKywl_GM) ![](ionic.png)
 - [Hacking CSS in Ionic 2](https://www.youtube.com/watch?v=sXFmkdhOEVc) ![](ionic.png)
 - [Learn Ionic 3 From Scratch](https://www.youtube.com/watch?v=JcEGTektejA&list=PLYxzS__5yYQng-XnJhB21Jc7NW1OIaqct) ![](ionic.png)
-- [Capawesome Biometrics Plugin for Ionic Capacitor](https://www.youtube.com/watch?v=QIcuCoaoe7w)
-- [Explore Capawesome's New Ionic Capacitor Live Update Plugin](https://www.youtube.com/watch?v=pCDPwItv_ik)
-- [How to use the Capacitor SQLite plugin from Capawesome](https://m.youtube.com/watch?v=r3uyNnD1CjM)
+- [How to use Biometrics in a Capacitor mobile app](https://www.youtube.com/watch?v=ixUvTX6n7x8)
+- [How to set up Capawesome Live Updates in a Capacitor App](https://www.youtube.com/watch?v=rF1yxzR8tnE)
+- [Capacitor SQLite Tutorial — CRUD, Transactions, and Real-World Usage](https://www.youtube.com/watch?v=JJg2r1UIxlk)
+- [Handling OAuth in Mobile Apps the Correct Way](https://www.youtube.com/watch?v=Cr1dJNN6Urw)
 
 ### Basics
 
