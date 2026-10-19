@@ -125,9 +125,7 @@ Live Updates (also called OTA or over-the-air updates) let you push changes to t
 
 ### Boilerplate/Demo Apps
 
-- [Ionic Boilerplate](https://github.com/marcoturi/ionic-boilerplate) ![](ionic.png)
 - [Update your App](https://github.com/NextFaze/ionic-manup) ![](ionic.png)
-- [ORC Scan App](https://github.com/matiastucci/ionic-ocr-example) ![](ionic.png)
 
 ### Open source apps
 
@@ -137,12 +135,7 @@ Live Updates (also called OTA or over-the-air updates) let you push changes to t
 - [Capacitor Biometrics Demo](https://github.com/capawesome-team/capacitor-biometrics-demo)
 - [Capacitor Firebase Plugin Demo](https://github.com/capawesome-team/capacitor-firebase-plugin-demo)
 - [Submit Ionic form data to Firebase Cloud Firestore](https://github.com/ionicthemes/submit-ionic-form-data-to-firebase-cloud-firestore) ![](ionic.png)
-- [Ionic NoSql](https://github.com/Alexintosh/Ionic-Nosql)
-- [Ionic Twitter Pwa](https://github.com/shprink/ionic-twitter-pwa) ![](ionic.png) ![](pwa.png)
-- [mHUD - Car App](https://github.com/paulcockrell/mHUD) ![](ionic.png) Speed tracking
 - [Conference App](https://github.com/driftyco/ionic-conference-app) ![](ionic.png)
-- [Inoffical "Myki" App](https://github.com/longzheng/mypal-ionic) ![](ionic.png)
-- [aiEyes](https://github.com/brenopolanski/aiEyes) ![](ionic.png)
 
 # Tutorials
 
@@ -286,7 +279,6 @@ Live Updates (also called OTA or over-the-air updates) let you push changes to t
 ### Menu, Tabs
 
 - [Fab Toolbar](https://github.com/ekhmoi/fab-toolbar) ![](ionic.png)
-- [Drop down Title](https://github.com/Mohd-PH/ionic-drop-down-title) ![](ionic.png)
 
 ### Form / Input
 
