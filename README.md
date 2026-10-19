@@ -4,7 +4,7 @@
 
 > A curated list of awesome Ionic libraries, resources, and solutions for the latest versions of Ionic Framework and Capacitor.
 
-This repository is maintained by [Dayana Jabif](https://github.com/djabif). For discussions about PRs and contributions, contact Dayana via DM on [twitter](https://twitter.com/djabif).
+This repository is maintained by [Dayana Jabif](https://github.com/djabif). Contributions are welcome, please read the [contribution guidelines](CONTRIBUTING.md) before opening a pull request.
 
 # Resources by Version
 
