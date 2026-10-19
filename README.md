@@ -31,9 +31,6 @@ This repository is maintained by [Fikayo Adepoju](https://github.com/coderonflee
 - [Ionic Enterprise](https://ionicframework.com/enterprise)
 - [Ionic Global Community](https://ionicframework.com/community)
 - [Ionic Youtube Channel](https://www.youtube.com/channel/UChYheBnVeCfhCmqZfCUdJQw)
-- [Ionic on CodePen](http://codepen.io/ionic/)
-- [Ionic Starter Apps](https://ionicthemes.com)
-- [Ionic Free Tutorials](https://ionicthemes.com/tutorials)
 
 # Capacitor
 
@@ -78,9 +75,6 @@ This repository is maintained by [Fikayo Adepoju](https://github.com/coderonflee
 
 ### Boilerplate/Demo Apps
 
-- [Ionic 4 Full Starter App and PWA](https://ionicthemes.com/product/ionic4-full-starter-app) ![](ionic.png) ![](pwa.png) [NEW]
-- [Ionic 3 Starter App Template](https://ionicthemes.com/product/ion2fullapp-full-ionic2-app-template-elite-version) ![](ionic.png)
-- [Ion2FullApp - Ionic 3 Template](https://ionicthemes.com/product/ion2fullapp-full-ionic2-app-template) ![](ionic.png)
 - [Ionic Boilerplate](https://github.com/marcoturi/ionic-boilerplate) ![](ionic.png)
 - [Cordova File Transfer](https://github.com/dsgriffin/ionic-2-file-transfer-example) ![](ionic.png)
 - [Update your App](https://github.com/NextFaze/ionic-manup) ![](ionic.png)
@@ -135,7 +129,6 @@ This repository is maintained by [Fikayo Adepoju](https://github.com/coderonflee
 
 #### Video Tutorials
 
-- [Ionic 2 Quickstart](https://www.udemy.com/ionic-2-quickstart/) ![](ionic.png)
 - [Build a Todo App from Scratch with Ionic 2](http://www.joshmorony.com/build-a-todo-app-from-scratch-with-ionic-2-video-tutorial/) ![](ionic.png)
 - [Ionic 2: How to Use Google Maps & Geolocation](http://www.joshmorony.com/ionic-2-how-to-use-google-maps-geolocation-video-tutorial/) ![](ionic.png)
 - [Build a Custom Flash Card Component in Ionic 2](https://www.youtube.com/watch?v=BKFQKywl_GM) ![](ionic.png)
@@ -176,9 +169,6 @@ This repository is maintained by [Fikayo Adepoju](https://github.com/coderonflee
 - [How to Create Your Apple and Google Developer Accounts](https://capawesome.io/blog/how-to-create-apple-developer-and-google-play-accounts/)
 - [How to Prepare Your App Store Listing](https://capawesome.io/blog/how-to-prepare-your-app-store-listing/)
 - [Install Tailwind CSS with Ionic Framework](https://capawesome.io/blog/install-tailwind-css-with-ionic-framework/)
-- [Build a complete mobile app with Ionic 3](https://ionicthemes.com/tutorials/about/building-a-complete-mobile-app-with-ionic-3) ![](ionic.png)
-- [Ionic Application Structure](https://ionicthemes.com/tutorials/about/ionic-application-structure) ![](ionic.png)
-- [Setup your development environment to build Ionic apps](https://ionicthemes.com/tutorials/about/setup-your-dev-environment-to-build-ionic-apps) ![](ionic.png)
 - [Beginners Guide to Getting Started with Ionic 2](http://www.joshmorony.com/beginners-guide-to-getting-started-with-ionic-2/) ![](ionic.png)
 - [Ionic 2 First Look Series: Your First Ionic 2 App Explained](http://www.joshmorony.com/ionic-2-first-look-series-your-first-ionic-2-app-explained/) ![](ionic.png)
 - [How to Convert an Ionic 1 Application to Ionic 2](http://www.joshmorony.com/how-to-convert-an-ionic-1-application-to-ionic-2/) ![](ionic.png)
@@ -200,8 +190,6 @@ This repository is maintained by [Fikayo Adepoju](https://github.com/coderonflee
 
 #### Components
 
-- [Ionic and Wordpress Integration using Wordpress REST API](https://ionicthemes.com/tutorials/about/ionic-wordpress-integration) ![](ionic.png)
-- [Add Google Maps, Places, and Geolocation to an Ionic 3 App](https://ionicthemes.com/tutorials/about/ionic-2-google-maps-google-places-geolocation) ![](ionic.png)
 - [How to Create a Sliding Delete Button for Lists](http://www.joshmorony.com/ionic-2-how-to-create-a-sliding-delete-button-for-lists/) ![](ionic.png)
 - [Creating a Sliding Introduction Component in Ionic 2](http://www.joshmorony.com/creating-a-sliding-introduction-component-in-ionic-2/) ![](ionic.png)
 - [How to Create a Custom Loading Component in Ionic 2](http://www.joshmorony.com/how-to-create-a-custom-loading-component-in-ionic-2/) ![](ionic.png)
@@ -220,9 +208,6 @@ This repository is maintained by [Fikayo Adepoju](https://github.com/coderonflee
 - [How to Use Better Auth in Ionic and Capacitor Apps](https://capawesome.io/blog/how-to-use-better-auth-in-capacitor-apps/)
 - [Firebase Authentication in Capacitor: Setup & Best Practices](https://capawesome.io/blog/capacitor-firebase-authentication-guide/)
 - [How to Securely Store Credentials with Capacitor](https://capawesome.io/blog/how-to-securely-store-credentials-with-capacitor/)
-- [Add Twitter Login to an Ionic 4 App](https://ionicthemes.com/tutorials/about/ionic-twitter-login) ![](ionic.png)
-- [Add Google Login to an Ionic 4 App](https://ionicthemes.com/tutorials/about/ionic-google-login) ![](ionic.png)
-- [Add Facebook Login to an Ionic 4 App](https://ionicthemes.com/tutorials/about/ionic-facebook-login) ![](ionic.png)
 - [Successful OAuth Social Login with Firebase](http://www.gajotres.net/ionic-2-succesfull-oauth-social-login-with-firebase/) ![](ionic.png)
 - [Ionic 2 and Auth0](http://blog.ionic.io/ionic-2-and-auth0/) ![](ionic.png)
 - [Handling a Simple User Authorization](http://www.gajotres.net/ionic-2-handling-a-simple-user-authorization/) ![](ionic.png)
@@ -331,7 +316,6 @@ This repository is maintained by [Fikayo Adepoju](https://github.com/coderonflee
 
 #### i18n & l10n
 
-- [Internationalize and Localize Your Ionic 3 App With Ng Translate for Angular 5](https://ionicthemes.com/tutorials/about/internationalize-and-localize-your-ionic2-app-with-ngtranslate) ![](ionic.png)
 - [Internationalize and Localize Your App With Angular 2](http://www.gajotres.net/ionic-2-internationalize-and-localize-your-app-with-angular-2/) ![](ionic.png)
 
 # Tools
