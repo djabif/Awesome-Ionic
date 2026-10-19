@@ -29,10 +29,10 @@ This repository is maintained by [Fikayo Adepoju](https://github.com/coderonflee
 - [Github Repository](https://github.com/ionic-team/ionic-framework)
 - [Community Forum](http://forum.ionicframework.com/)
 - [Capacitor](https://capacitorjs.com/)
-- [Ionic Native](https://github.com/driftyco/ionic-native/)
 - [Appflow](https://ionic.io/appflow) - reaches end of life on December 31, 2027, see [Live Updates](#live-updates) for the migration path
-- [Ionic Enterprise](https://ionicframework.com/enterprise)
-- [Ionic Global Community](https://ionicframework.com/community)
+- [Ionic Framework MCP Server](https://capawesome.io/docs/ai/mcp/ionic-framework/) - Ionic docs for your AI assistant, by Capawesome
+- [Ionic AI Agent Skills](https://capawesome.io/docs/ai/skills/) - `ionic-expert`, `ionic-angular`, `ionic-react`, `ionic-vue`, `ionic-app-creation`, `ionic-app-upgrades` and more, by Capawesome
+- [Ionic Theme iOS 27](https://github.com/rdlabo-dev/ionic-theme-ios27) - community theme that brings the iOS 26 Liquid Glass look to Ionic
 - [Ionic Youtube Channel](https://www.youtube.com/channel/UChYheBnVeCfhCmqZfCUdJQw)
 
 # Capacitor
@@ -113,7 +113,11 @@ Live Updates (also called OTA or over-the-air updates) let you push changes to t
 
 # Built With Ionic
 
-- [WhatsApp Clone](https://github.com/coderonfleek/whatsapp-clone)
+- [Ionic Showcase](https://ionic.io/showcase) - companies building with Ionic, including T-Mobile, BBC, Mastercard, Morgan Stanley and Fidelity
+- [National Health Service (NHS)](https://ionic.io/resources/case-studies/national-health-service) - case study
+- [EGYM](https://ionic.io/resources/case-studies/egym) - case study
+- [H&R Block](https://ionic.io/resources/case-studies/hrblock) - case study
+- [Southwest Airlines](https://meetmaestro.com/work/southwest/) - case study
 
 # Ionic Angular
 
@@ -180,6 +184,7 @@ Live Updates (also called OTA or over-the-air updates) let you push changes to t
 
 #### Theming
 
+- [Community Spotlight: Ionic Theme iOS 27](https://ionic.io/blog/introducing-ionic-theme-ios27) - Liquid Glass theme for Ionic
 - [Install Tailwind CSS with Ionic Framework](https://capawesome.io/blog/install-tailwind-css-with-ionic-framework/)
 - [Tailwind CSS Plugin for Ionic Framework](https://capawesome.io/blog/tailwind-css-plugin-for-ionic-framework/)
 
@@ -273,7 +278,7 @@ Live Updates (also called OTA or over-the-air updates) let you push changes to t
 - [Capawesome CLI](https://capawesome.io/docs/cloud/cli/) - manage Live Updates, builds and app store submissions from the terminal or CI
 - [Capver](https://github.com/capawesome-team/capver) - version management for Capacitor apps
 - [Capawesome GitHub Actions](https://github.com/capawesome-team/cloud-build-action) - native builds and [Live Updates](https://github.com/capawesome-team/cloud-live-update-action) from GitHub workflows
-- [AI Agent Skills for Capacitor & Ionic](https://capawesome.io/skills/) - open source skills for Claude Code, Cursor, Copilot and other agents
+- [AI Agent Skills for Capacitor & Ionic](https://capawesome.io/skills/) - open source skills for Claude Code, Cursor, Copilot and other agents ([Ionic skills on GitHub](https://github.com/capawesome-team/skills/tree/main/skills/ionic-expert))
 - [MCP Servers](https://capawesome.io/docs/ai/mcp/) - [Capacitor](https://capacitor-mcp.capawesome.io/mcp), [Ionic Framework](https://ionic-framework-mcp.capawesome.io/mcp) and [Capawesome](https://mcp.capawesome.io/mcp) docs for AI assistants
 
 # Components
