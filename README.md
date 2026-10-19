@@ -6,12 +6,10 @@
 
 This repository is maintained by [Dayana Jabif](https://github.com/djabif). Contributions are welcome, please read the [contribution guidelines](CONTRIBUTING.md) before opening a pull request.
 
-# Resources by Version
+# Contents
 
 - [General](#general)
 - [Ionic Angular](#ionic-angular)
-- [Ionic React](ionic-react.md)
-- [Ionic Vue](ionic-vue.md)
 - [Capacitor](#capacitor)
 - [Capawesome](#capawesome)
 - [Live Updates](#live-updates)
