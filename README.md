@@ -21,7 +21,10 @@ This repository is maintained by [Fikayo Adepoju](https://github.com/coderonflee
 # General
 
 - [Official Website](https://ionicframework.com/)
-- [Blog](https://blog.ionicframework.com/)
+- [Blog](https://ionic.io/blog)
+  - [Community Spotlight: Ionic Theme iOS 27](https://ionic.io/blog/introducing-ionic-theme-ios27)
+  - [Announcing a Partnership with Capawesome](https://ionic.io/blog/%f0%9f%9a%80-announcing-a-partnership-with-capawesome)
+  - [The Road to Capacitor 9](https://ionic.io/blog/the-road-to-capacitor-9)
 - [Documentation](https://ionicframework.com/docs/)
 - [Github Repository](https://github.com/ionic-team/ionic-framework)
 - [Community Forum](http://forum.ionicframework.com/)
