@@ -123,10 +123,6 @@ Live Updates (also called OTA or over-the-air updates) let you push changes to t
 
 ## Complete projects
 
-### Awesome Demos
-
-- [Ionic Lottie Sample](https://github.com/yannbf/ionic-lottie) ![](ionic.png)
-
 ### Boilerplate/Demo Apps
 
 - [Ionic Boilerplate](https://github.com/marcoturi/ionic-boilerplate) ![](ionic.png)
@@ -142,7 +138,6 @@ Live Updates (also called OTA or over-the-air updates) let you push changes to t
 - [Capacitor Firebase Plugin Demo](https://github.com/capawesome-team/capacitor-firebase-plugin-demo)
 - [Submit Ionic form data to Firebase Cloud Firestore](https://github.com/ionicthemes/submit-ionic-form-data-to-firebase-cloud-firestore) ![](ionic.png)
 - [Ionic NoSql](https://github.com/Alexintosh/Ionic-Nosql)
-- [Ionic Soundboard with remote sounds](https://github.com/rkalis/ionic-soundboard) ![](ionic.png)
 - [Ionic Twitter Pwa](https://github.com/shprink/ionic-twitter-pwa) ![](ionic.png) ![](pwa.png)
 - [mHUD - Car App](https://github.com/paulcockrell/mHUD) ![](ionic.png) Speed tracking
 - [Conference App](https://github.com/driftyco/ionic-conference-app) ![](ionic.png)
@@ -325,11 +320,6 @@ Live Updates (also called OTA or over-the-air updates) let you push changes to t
 - [Audio Player 8.4.0: Playlists and Media Session Support](https://capawesome.io/blog/capacitor-audio-player-8-4-0-release/)
 - [Exploring the Capacitor Audio Recorder API](https://capawesome.io/blog/exploring-the-capacitor-audio-recorder-api/)
 - [Capacitor Audio Player Demo](https://github.com/capawesome-team/capacitor-audio-player-demo)
-- [Simple Audioplayer](https://github.com/arielfaur/ionic-audio) ![](ionic.png)
-
-### Keyboards
-
-- [Digit Keyboard](https://github.com/skol-pro/ion-digit-keyboard-v2) ![](ionic.png)
 
 ### Frames
 
