@@ -9,11 +9,12 @@ This repository is maintained by [Fikayo Adepoju](https://github.com/coderonflee
 # Resources by Version
 
 - [General](#general)
-- [Ionic Angular (2+)](#ionic-angular)
+- [Ionic Angular](#ionic-angular)
 - [Ionic React](ionic-react.md)
 - [Ionic Vue](ionic-vue.md)
 - [Capacitor](#capacitor)
 - [Capawesome](#capawesome)
+- [Live Updates](#live-updates)
 - [Built with Ionic](#built-with-ionic)
 - [Stencil](https://github.com/Alexintosh/awesome-stencil)
 
@@ -29,7 +30,7 @@ This repository is maintained by [Fikayo Adepoju](https://github.com/coderonflee
 - [Community Forum](http://forum.ionicframework.com/)
 - [Capacitor](https://capacitorjs.com/)
 - [Ionic Native](https://github.com/driftyco/ionic-native/)
-- [Appflow](https://ionicframework.com/appflow)
+- [Appflow](https://ionic.io/appflow) - reaches end of life on December 31, 2027, see [Live Updates](#live-updates) for the migration path
 - [Ionic Enterprise](https://ionicframework.com/enterprise)
 - [Ionic Global Community](https://ionicframework.com/community)
 - [Ionic Youtube Channel](https://www.youtube.com/channel/UChYheBnVeCfhCmqZfCUdJQw)
@@ -59,7 +60,56 @@ This repository is maintained by [Fikayo Adepoju](https://github.com/coderonflee
 - [Blog](https://capawesome.io/blog/) - Capacitor tutorials and guides
 - [YouTube Channel](https://www.youtube.com/@capawesomeio)
 - [Github Organization](https://github.com/capawesome-team)
-- [Migrating from Ionic Appflow to Capawesome Cloud](https://capawesome.io/blog/migrating-from-ionic-appflow-to-capawesome-cloud/)
+
+# Live Updates
+
+Live Updates (also called OTA or over-the-air updates) let you push changes to the web layer of your Ionic app directly to users, without waiting for an app store review. Ionic Appflow, the original Live Updates service, reaches end of life on December 31, 2027. Ionic [officially recommends](https://ionic.io/blog/%f0%9f%9a%80-announcing-a-partnership-with-capawesome) Capawesome Cloud as its successor.
+
+## Tools
+
+- [Capawesome Cloud Live Updates](https://capawesome.io/docs/cloud/live-updates/) - channels, gradual rollouts, rollbacks, code signing and Electron support
+- [Capacitor Live Update Plugin](https://capawesome.io/docs/sdks/capacitor/live-update/) - `@capawesome/capacitor-live-update`, the client SDK for Capacitor apps
+- [Capawesome CLI](https://capawesome.io/docs/cloud/cli/) - upload bundles and manage channels from the terminal or CI
+- [Live Update GitHub Action](https://github.com/capawesome-team/cloud-live-update-action) - deploy a bundle on every push
+- [Capawesome Cloud Open Source Program](https://capawesome.io/blog/capawesome-cloud-open-source-program/) - free Live Updates for open source apps
+- [Cordova Live Update Demo](https://github.com/capawesome-team/cordova-live-update-demo)
+
+## Migrating from Ionic Appflow
+
+- [Ionic Appflow Is Shutting Down: Here's Your Migration Plan](https://capawesome.io/blog/migrating-from-ionic-appflow-to-capawesome-cloud/)
+- [Appflow Migration Docs](https://capawesome.io/docs/cloud/migrations/ionic-appflow/) - import your Appflow apps with a single CLI command
+- [Migrating Ionic Portals Live Updates to Capawesome Cloud](https://capawesome.io/blog/migrating-ionic-portals-live-updates-from-appflow-to-capawesome/)
+- [Alternative to Ionic Appflow](https://capawesome.io/blog/alternative-to-appflow/)
+- [Announcing Our Official Partnership with Ionic](https://capawesome.io/blog/announcing-partnership-with-ionic/)
+- [Ionic Appflow Migration: Export & Import into Capawesome Cloud](https://www.youtube.com/watch?v=NuK571iCaNA) (video)
+- [Migrate from Ionic Appflow in ONE Command](https://www.youtube.com/watch?v=N-H_mtCZiPA) (video)
+
+## Guides
+
+- [Capacitor Live Updates: The Complete OTA Guide](https://capawesome.io/blog/capacitor-live-updates-guide/)
+- [How Capacitor Live Updates Work Under the Hood](https://capawesome.io/blog/how-live-updates-for-capacitor-work/)
+- [The Right Way to Update Your Capacitor App Remotely](https://capawesome.io/blog/the-right-way-to-update-your-capacitor-app-remotely/)
+- [How to Gradually Roll Out Live Updates for Capacitor Apps](https://capawesome.io/blog/how-to-gradually-roll-out-capacitor-live-updates/)
+- [How to Reduce the Bundle Size of Capacitor Live Updates](https://capawesome.io/blog/how-to-reduce-the-bundle-size-of-capacitor-live-updates/)
+- [Capacitor Live Updates: Signing vs Encryption](https://capawesome.io/blog/capacitor-live-updates-end-to-end-encryption/)
+- [Best Live Update Tools for Capacitor](https://capawesome.io/blog/best-ota-update-tools-for-capacitor/)
+- [Cordova Live Updates: A Complete Guide to OTA Updates](https://capawesome.io/blog/cordova-live-updates-guide/)
+- [Exploring the Capacitor Live Update API](https://capawesome.io/blog/exploring-the-capacitor-live-update-api/)
+- [How to Restrict Capacitor Live Updates to Native Versions](https://capawesome.io/blog/how-to-restrict-capacitor-live-updates-to-native-versions/)
+- [Channel Pausing for Capawesome Cloud Live Updates](https://capawesome.io/blog/capawesome-cloud-channel-pausing/)
+- [Channel Surfing with Capacitor Live Updates](https://capawesome.io/blog/capawesome-cloud-channel-surfing/)
+- [Forced Channel Assignments for Capawesome Cloud Devices](https://capawesome.io/blog/capawesome-cloud-forced-channel-assignments/)
+- [Capacitor Live Updates: Reliability & Uptime](https://capawesome.io/blog/capacitor-live-updates-reliability-and-uptime/)
+- [Live Updates for Nuxt Capacitor Apps](https://capawesome.io/blog/live-updates-for-nuxt-capacitor/)
+- [How Live Updates Are Changing Mobile App Deployment](https://capawesome.io/blog/how-live-updates-are-changing-mobile-app-deployment/)
+- [Case Study: snapAddy Ships Live Updates to 1M+ Installations](https://capawesome.io/blog/case-study-snapaddy-live-updates/)
+
+## Videos
+
+- [Capacitor Live Updates Setup: Ship OTA Updates Without App Store Review](https://www.youtube.com/watch?v=rF1yxzR8tnE)
+- [Capacitor Live Updates: Channels & Gradual Rollouts Explained](https://www.youtube.com/watch?v=Hg0ObWno3Zc)
+- [Secure Capacitor Live Updates with Code Signing](https://www.youtube.com/watch?v=Z-Qu2f-ODv8)
+- [Cordova Live Updates in 2026](https://www.youtube.com/watch?v=xmgyVkaqx48)
 
 # Built With Ionic
 
@@ -111,11 +161,6 @@ This repository is maintained by [Fikayo Adepoju](https://github.com/coderonflee
 - [Automate Capacitor Builds with Git-Based Triggers](https://www.youtube.com/watch?v=39WNZroLZOE)
 - [Environment Variables & Secrets in Cloud Builds](https://www.youtube.com/watch?v=aF1xIVZIuN8)
 - [Free iOS Certificate & Android Keystore Generator: Signing Setup](https://www.youtube.com/watch?v=tKt3NNcFiCM)
-- [Capacitor Live Updates Setup: Ship OTA Updates Without App Store Review](https://www.youtube.com/watch?v=rF1yxzR8tnE)
-- [Capacitor Live Updates: Channels & Gradual Rollouts Explained](https://www.youtube.com/watch?v=Hg0ObWno3Zc)
-- [Secure Capacitor Live Updates with Code Signing](https://www.youtube.com/watch?v=Z-Qu2f-ODv8)
-- [Cordova Live Updates in 2026](https://www.youtube.com/watch?v=xmgyVkaqx48)
-- [Ionic Appflow Migration: Export & Import into Capawesome Cloud](https://www.youtube.com/watch?v=NuK571iCaNA)
 - [Capacitor SQLite Tutorial: CRUD, Transactions & Local Database Setup](https://www.youtube.com/watch?v=JJg2r1UIxlk)
 - [Capacitor Biometrics Plugin: Face ID & Fingerprint Auth](https://www.youtube.com/watch?v=ixUvTX6n7x8)
 - [Capacitor Vault Plugin: Secure Sensitive Data with Face ID & Touch ID](https://www.youtube.com/watch?v=wCNMqVBnQqs)
@@ -177,18 +222,6 @@ This repository is maintained by [Fikayo Adepoju](https://github.com/coderonflee
 - [Build a Desktop App with Capacitor and Electron](https://capawesome.io/blog/how-to-build-a-desktop-app-with-capacitor-and-electron/)
 - [How to Patch a Capacitor Plugin](https://capawesome.io/blog/how-to-patch-a-capacitor-plugin/)
 
-#### Live Updates (OTA)
-
-- [Capacitor Live Updates: The Complete OTA Guide](https://capawesome.io/blog/capacitor-live-updates-guide/)
-- [How Capacitor Live Updates Work Under the Hood](https://capawesome.io/blog/how-live-updates-for-capacitor-work/)
-- [The Right Way to Update Your Capacitor App Remotely](https://capawesome.io/blog/the-right-way-to-update-your-capacitor-app-remotely/)
-- [How to Gradually Roll Out Live Updates for Capacitor Apps](https://capawesome.io/blog/how-to-gradually-roll-out-capacitor-live-updates/)
-- [How to Reduce the Bundle Size of Capacitor Live Updates](https://capawesome.io/blog/how-to-reduce-the-bundle-size-of-capacitor-live-updates/)
-- [Capacitor Live Updates: Signing vs Encryption](https://capawesome.io/blog/capacitor-live-updates-end-to-end-encryption/)
-- [Best Live Update Tools for Capacitor](https://capawesome.io/blog/best-ota-update-tools-for-capacitor/)
-- [Cordova Live Updates: A Complete Guide to OTA Updates](https://capawesome.io/blog/cordova-live-updates-guide/)
-- [Ionic Appflow Is Shutting Down: Here's Your Migration Plan](https://capawesome.io/blog/migrating-from-ionic-appflow-to-capawesome-cloud/)
-
 #### CI/CD, Builds & Publishing
 
 - [CI/CD for Capacitor Apps: Choosing the Right Approach](https://capawesome.io/blog/choosing-the-right-ci-cd-approach-for-capacitor-apps/)
@@ -245,8 +278,6 @@ This repository is maintained by [Fikayo Adepoju](https://github.com/coderonflee
 
 # Components
 
-Merged from [here](https://github.com/fishme/awesome-ionic2-components).
-
 ### Animations
 
 - [Lottie Animation](https://github.com/chenqingspring/ng-lottie) ![](angular.png)
@@ -259,9 +290,6 @@ Merged from [here](https://github.com/fishme/awesome-ionic2-components).
 
 ### Form / Input
 
-- [Form Generator based on JSON](https://github.com/makinacorpus/angular2-schema-form) ![](angular.png)
-- [Dynamic Forms](https://github.com/udos86/ng2-dynamic-forms/) ![](angular.png)
-
 #### Input - Date/Calendar
 
 - [Capacitor Calendar Plugin](https://capawesome.io/docs/sdks/capacitor/calendar/)
@@ -269,15 +297,10 @@ Merged from [here](https://github.com/fishme/awesome-ionic2-components).
 - [Capacitor Calendar Permissions on iOS 17+ and Android](https://capawesome.io/blog/capacitor-calendar-permissions/)
 - **Calendar**
   - [Calendar](https://github.com/mattlewis92/angular-calendar) ![](angular.png) (very powerful)
-  - [Calendar - Fullcalendar](https://github.com/nekken/ng2-fullcalendar) ![](angular.png)
-- **Datepicker**
-  - [Datepicker (selectable range dates calendar)](https://github.com/HsuanXyz/ion2-calendar) ![](ionic.png)
 - [Inputfield Mask](https://github.com/text-mask/text-mask)
 
 ### Lists/Table
 
-- [Sortable/Filter Tables](https://github.com/valor-software/ng2-table) ![](angular.png)
-- [Smart table (sorting, filtering ...)](https://github.com/akveo/ng2-smart-table) ![](angular.png)
 - [Flexible and Light Table](https://github.com/swimlane/ngx-datatable) ![](angular.png)
 
 ### Images
@@ -285,20 +308,9 @@ Merged from [here](https://github.com/fishme/awesome-ionic2-components).
 - [How to Take and Edit Photos in a Capacitor App](https://capawesome.io/blog/how-to-take-and-edit-photos-in-a-capacitor-app/)
 - [How to Scan a Document to PDF in a Capacitor App](https://capawesome.io/blog/how-to-scan-a-document-to-pdf-in-a-capacitor-app/)
 - [Exploring the Capacitor File Compressor API](https://capawesome.io/blog/exploring-the-capacitor-file-compressor-api/)
-- [Signatur](https://github.com/wulfsolter/angular2-signaturepad) ![](angular.png) works perfect with ![](ionic.png)
-- [Image Fallback](https://github.com/VadimDez/ng2-img-fallback) ![](angular.png)
-- [Lazy Load](https://github.com/tjoskar/ng2-lazyload-image) ![](ionic.png) ![](angular.png)
 - [Image Loader](https://github.com/zyramedia/ionic-image-loader) ![](ionic.png)
 - [Image Viewer](https://github.com/Riron/ionic-img-viewer) ![](ionic.png)
 - [Gallery Modal](https://github.com/nikini/ionic-gallery-modal) ![](ionic.png)
-- [Image Zoom](https://github.com/brtnshrdr/angular2-image-zoom) ![](angular.png)
-
-### Charts/Diagram
-
-- [Charts](https://github.com/valor-software/ng2-charts) ![](angular.png)
-- **D3 Approaches**
-  - [D3 Service](https://github.com/tomwanzek/d3-ng2-service) ![](angular.png)
-  - [D3 Line/Bar/Pie Charts](https://github.com/datencia/d3js-angular2-example) ![](angular.png)
 
 ### Video/Audio
 
