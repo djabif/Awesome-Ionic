@@ -134,7 +134,6 @@ Live Updates (also called OTA or over-the-air updates) let you push changes to t
 - [Capacitor OAuth Demo](https://github.com/capawesome-team/capacitor-oauth-demo)
 - [Capacitor Biometrics Demo](https://github.com/capawesome-team/capacitor-biometrics-demo)
 - [Capacitor Firebase Plugin Demo](https://github.com/capawesome-team/capacitor-firebase-plugin-demo)
-- [Submit Ionic form data to Firebase Cloud Firestore](https://github.com/ionicthemes/submit-ionic-form-data-to-firebase-cloud-firestore) ![](ionic.png)
 - [Conference App](https://github.com/driftyco/ionic-conference-app) ![](ionic.png)
 
 # Tutorials
