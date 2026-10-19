@@ -125,10 +125,6 @@ Live Updates (also called OTA or over-the-air updates) let you push changes to t
 
 ## Complete projects
 
-### Boilerplate/Demo Apps
-
-- [Update your App](https://github.com/NextFaze/ionic-manup) ![](ionic.png)
-
 ### Open source apps
 
 - [Capacitor SQLite Angular Demo](https://github.com/capawesome-team/capacitor-sqlite-angular-demo) ![](ionic.png)
@@ -249,7 +245,12 @@ Live Updates (also called OTA or over-the-air updates) let you push changes to t
 
 #### Cordova Plugins
 
-- [Kommunicate Live Chat Plugin for Customer Support](https://docs.kommunicate.io/docs/cordova-installation.html) ![](ionic.png)
+- [Capawesome Cordova Plugins](https://capawesome.io/docs/sdks/cordova/)
+- [Cordova Live Update Plugin](https://capawesome.io/docs/sdks/cordova/live-update/) - over-the-air updates with auto-update and rollback
+- [Cordova Live Updates: A Complete Guide to OTA Updates](https://capawesome.io/blog/cordova-live-updates-guide/)
+- [Cordova Hot Code Push Alternative for OTA Updates](https://capawesome.io/blog/cordova-hot-code-push-alternative/)
+- [An Alternative to cordova-plugin-file-transfer](https://capawesome.io/blog/alternative-to-cordova-plugin-file-transfer/)
+- [An Alternative to cordova-plugin-document-scanner](https://capawesome.io/blog/alternative-to-cordova-plugin-document-scanner/)
 
 #### Backend as a Service
 
@@ -288,8 +289,7 @@ Live Updates (also called OTA or over-the-air updates) let you push changes to t
 - [Capacitor Calendar Plugin](https://capawesome.io/docs/sdks/capacitor/calendar/)
 - [How to Manage Recurring Calendar Events in Capacitor](https://capawesome.io/blog/recurring-calendar-events-in-capacitor/)
 - [Capacitor Calendar Permissions on iOS 17+ and Android](https://capawesome.io/blog/capacitor-calendar-permissions/)
-- **Calendar**
-  - [Calendar](https://github.com/mattlewis92/angular-calendar) ![](angular.png) (very powerful)
+- [Calendar](https://github.com/mattlewis92/angular-calendar) ![](angular.png)
 - [Inputfield Mask](https://github.com/text-mask/text-mask)
 
 ### Lists/Table
@@ -301,9 +301,11 @@ Live Updates (also called OTA or over-the-air updates) let you push changes to t
 - [How to Take and Edit Photos in a Capacitor App](https://capawesome.io/blog/how-to-take-and-edit-photos-in-a-capacitor-app/)
 - [How to Scan a Document to PDF in a Capacitor App](https://capawesome.io/blog/how-to-scan-a-document-to-pdf-in-a-capacitor-app/)
 - [Exploring the Capacitor File Compressor API](https://capawesome.io/blog/exploring-the-capacitor-file-compressor-api/)
-- [Image Loader](https://github.com/zyramedia/ionic-image-loader) ![](ionic.png)
-- [Image Viewer](https://github.com/Riron/ionic-img-viewer) ![](ionic.png)
-- [Gallery Modal](https://github.com/nikini/ionic-gallery-modal) ![](ionic.png)
+- [Capacitor Photo Editor Plugin](https://capawesome.io/docs/sdks/capacitor/photo-editor/) - filters, cropping and annotations
+- [Capacitor Photo Manipulator Plugin](https://capawesome.io/docs/sdks/capacitor/photo-manipulator/) - crop, resize, rotate, flip and format conversion
+- [Capacitor File Picker Plugin](https://capawesome.io/docs/sdks/capacitor/file-picker/) - pick images and videos from the device
+- [Capacitor File Compressor Plugin](https://capawesome.io/docs/sdks/capacitor/file-compressor/)
+- [Capacitor Document Scanner Plugin](https://capawesome.io/docs/sdks/capacitor/document-scanner/)
 
 ### Video/Audio
 
@@ -317,7 +319,3 @@ Live Updates (also called OTA or over-the-air updates) let you push changes to t
 ### Frames
 
 - [ng Lightning (for Salesforce Apps)](https://github.com/ng-lightning/ng-lightning) ![](angular.png)
-
-# Are you Italian?
-
-**Join** the italian [Ionic Framework community](https://www.facebook.com/groups/380772785422827/)! ![](ionicitalia.jpg)
