@@ -4,7 +4,7 @@
 
 > A curated list of awesome Ionic libraries, resources, and solutions for the latest versions of Ionic Framework and Capacitor.
 
-This repository is maintained by [Fikayo Adepoju](https://github.com/coderonfleek) and [Alessio Delmonti](https://github.com/Alexintosh). For discussions about PRs and contributions, contact Fikayo via DM on [twitter](https://twitter.com/coderonfleek).
+This repository is maintained by [Dayana Jabif](https://github.com/djabif). For discussions about PRs and contributions, contact Dayana via DM on [twitter](https://twitter.com/djabif).
 
 # Resources by Version
 
@@ -16,7 +16,7 @@ This repository is maintained by [Fikayo Adepoju](https://github.com/coderonflee
 - [Capawesome](#capawesome)
 - [Live Updates](#live-updates)
 - [Built with Ionic](#built-with-ionic)
-- [Stencil](https://github.com/Alexintosh/awesome-stencil)
+- [Stencil](https://stenciljs.com/)
 
 # General
 
@@ -45,6 +45,7 @@ This repository is maintained by [Fikayo Adepoju](https://github.com/coderonflee
 - [Github Project](https://github.com/ionic-team/capacitor)
 - [Twitter](https://twitter.com/capacitorjs)
 - [Capacitor MCP Server](https://capacitor-mcp.capawesome.io/mcp) - Capacitor docs for your AI assistant
+- [Awesome Capacitor](https://github.com/capawesome-team/awesome-capacitorjs) - curated list of Capacitor plugins, tools and resources, by Capawesome
 
 ## Capawesome
 
@@ -60,6 +61,7 @@ This repository is maintained by [Fikayo Adepoju](https://github.com/coderonflee
 - [Blog](https://capawesome.io/blog/) - Capacitor tutorials and guides
 - [YouTube Channel](https://www.youtube.com/@capawesomeio)
 - [Github Organization](https://github.com/capawesome-team)
+- [Awesome Capacitor](https://github.com/capawesome-team/awesome-capacitorjs) - Capawesome's curated list of Capacitor resources
 
 # Live Updates
 
